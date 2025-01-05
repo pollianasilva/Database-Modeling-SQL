@@ -1,19 +1,11 @@
 <div align="center">
-<img alt="logounifecaf" title="logo" src="https://github.com/user-attachments/assets/1c75da7f-ce4e-444a-bd97-afc0922c78b2 " width="200vw"/>
+<img alt="logounifecaf" title="logo" src="https://github.com/user-attachments/assets/90ed2ae5-f4eb-4d6f-8824-3128a91c6141 " width="200vw"/>
 
 Database Modeling & SQL
 
 [Vídeo Explicando a Atividade](https://youtu.be/cgNcPJadb4M)
 
 </div>
-
-
-
-
-
-
-
-
 
 # Estudo de Caso: Sistema Faculdade
 ## Descrição do Problema:
