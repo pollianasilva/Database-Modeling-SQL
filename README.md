@@ -33,10 +33,11 @@ Com este estudo de caso, os alunos deverão ser capazes de:
 - Registrar e consultar notas
 
 ## 2 - Modelo Conceitual
-![Estudo de caso Faculdade - Conceitual](https://github.com/user-attachments/assets/5adb07b2-5a68-4686-8a6c-9239a87582e7)
+![Estudo de caso Faculdade - Conceitual](https://github.com/user-attachments/assets/aa9d49dc-ecec-458c-b991-eaf642d2860d)
 
 ## 3 - Modelo Lógico
-![Estudo de caso Faculdade -Logico](https://github.com/user-attachments/assets/30821b83-f956-4eed-a48d-8fc1281f38e1)
+![Estudo de caso Faculdade -Logico](https://github.com/user-attachments/assets/ce29bd20-c63e-4386-8d50-58288a86a4b1)
+
 
 ## 4 - Modelo Físico
 - Criação do banco e tabelas:
